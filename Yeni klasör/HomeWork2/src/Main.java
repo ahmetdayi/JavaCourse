@@ -30,8 +30,8 @@ public class Main {
 		studentManager.signUp();
 		
 		student.setId(1);
-		student.setFirstName("Muzaffer");
-		student.setLastName("Canan");
+		student.setFirstName("Kenan");
+		student.setLastName("Birkan");
 		student.setStudentNumber(32);
 		student.setHomeWorkofNumberTaken(8);
 		student.setHomeWorkofNumberDone(2);
